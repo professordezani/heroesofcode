@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dezani/Developments/OnlineJudgeApi/OnlineJudgeApi.csproj": {}
+    "/workspace/heroesofcode/OnlineJudgeApi.csproj": {}
   },
   "projects": {
-    "/Users/dezani/Developments/OnlineJudgeApi/OnlineJudgeApi.csproj": {
+    "/workspace/heroesofcode/OnlineJudgeApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dezani/Developments/OnlineJudgeApi/OnlineJudgeApi.csproj",
+        "projectUniqueName": "/workspace/heroesofcode/OnlineJudgeApi.csproj",
         "projectName": "OnlineJudgeApi",
-        "projectPath": "/Users/dezani/Developments/OnlineJudgeApi/OnlineJudgeApi.csproj",
-        "packagesPath": "/Users/dezani/.nuget/packages/",
-        "outputPath": "/Users/dezani/Developments/OnlineJudgeApi/obj/",
+        "projectPath": "/workspace/heroesofcode/OnlineJudgeApi.csproj",
+        "packagesPath": "/home/gitpod/.nuget/packages/",
+        "outputPath": "/workspace/heroesofcode/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/dezani/.nuget/NuGet/NuGet.Config"
+          "/home/gitpod/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,10 +49,17 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.16, 6.0.16]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -64,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.105/RuntimeIdentifierGraph.json"
         }
       }
     }
