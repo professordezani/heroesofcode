@@ -1,0 +1,7 @@
+/workspace/heroesofcode/obj/Release/net6.0/OnlineJudgeApi.csproj.AssemblyReference.cache
+/workspace/heroesofcode/obj/Release/net6.0/OnlineJudgeApi.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/heroesofcode/obj/Release/net6.0/OnlineJudgeApi.AssemblyInfoInputs.cache
+/workspace/heroesofcode/obj/Release/net6.0/OnlineJudgeApi.AssemblyInfo.cs
+/workspace/heroesofcode/obj/Release/net6.0/OnlineJudgeApi.csproj.CoreCompileInputs.cache
+/workspace/heroesofcode/obj/Release/net6.0/OnlineJudgeApi.MvcApplicationPartsAssemblyInfo.cs
+/workspace/heroesofcode/obj/Release/net6.0/OnlineJudgeApi.MvcApplicationPartsAssemblyInfo.cache

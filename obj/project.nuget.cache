@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JgcxCIV/4WlwV0oC/zU4pKzSgko0c1BtdjBBrQFuBFQT7xEK/m05hCFhUBXKusXJ1UsEc+wX6XKJDGuaCkk4rA==",
+  "dgSpecHash": "Y5I+EABBeFPH/mPzzXDciUOEPcwa70CtnNSqtzopTWF1Mx0JCDrdpeVGnkUCHjjOQUtLNS08sWmP4SkgGC40Wg==",
   "success": true,
   "projectFilePath": "/workspace/heroesofcode/OnlineJudgeApi.csproj",
   "expectedPackageFiles": [
@@ -9,8 +9,7 @@
     "/home/gitpod/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "/home/gitpod/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "/home/gitpod/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "/home/gitpod/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
-    "/home/gitpod/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.16/microsoft.netcore.app.host.linux-x64.6.0.16.nupkg.sha512"
+    "/home/gitpod/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
   ],
   "logs": []
 }
